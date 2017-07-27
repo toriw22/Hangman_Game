@@ -1,1 +1,26 @@
-.
+body{
+	background-color: black;
+
+}
+
+.box {
+	background-color: white;
+	height:500px;
+	width: 400px;
+
+}
+.boxScore {
+
+	position:relative;
+	left: 20%;
+	top: 300px;
+	z-index:4;
+
+}
+
+.boxLetters {
+	left: 75%;
+	top: 300px;
+	z-index:4;
+
+}
